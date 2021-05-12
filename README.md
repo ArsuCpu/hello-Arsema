@@ -1,4 +1,4 @@
 # hello-Arsema
 Arsema's tutorial repository
-I like to learn python and node js
+I want to learn python and node js
 
