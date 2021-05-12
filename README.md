@@ -1,3 +1,3 @@
 # hello-Arsema
 Arsema's tutorial repository
-Checking pull request
+I want to learn python and Node js
